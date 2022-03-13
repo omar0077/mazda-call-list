@@ -1,6 +1,7 @@
 # MazdaCrm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+http://localhost:4200/ will take user to the landing page with call-list. User can search filter and select user from a list. User can click "make call" button to updates user info or call to them.
 
 ## Development server
 
