@@ -1,0 +1,59 @@
+table {
+  width: 100%;
+}
+
+.mat-row .mat-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  cursor: pointer;
+}
+
+.mat-row:hover .mat-cell {
+  border-color: currentColor;
+}
+
+.demo-row-is-clicked {
+  // font-weight: bold;
+  background-color:#59ac92;
+}
+
+.call-completed{
+  float: right;
+  margin-top: 10px;
+}
+
+.search-container{
+  text-align: center;
+}
+
+.form-field-container{
+  padding: 10px;
+  float: left;
+}
+
+.search-button{
+  margin-top: 8px;
+}
+
+// .table-container{
+//   width: 90%;
+// }
+
+// .example-additional-selection {
+//   opacity: 0.75;
+//   font-size: 0.75em;
+// }
+
+// .mat-row:hover .mat-cell :hover {
+//   background: whitesmoke;
+// }
+
+// .mat-row:hover .mat-cell :not(.example-expanded-row):active {
+//   background: #efefef;
+// }
+
+// .mat-row .mat-cell {
+//   border-bottom: 1px solid transparent;
+//   border-top: 1px solid transparent;
+//   cursor: pointer;
+// }
